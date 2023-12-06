@@ -3,6 +3,7 @@ import React from "react";
 import Link from "next/link";
 
 const Footer = ({ classText }) => {
+  const year = new Date().getFullYear();
   return (
     <footer className={`${classText ? classText : ""}`}>
       <div className="container">
@@ -17,7 +18,7 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
                     <h6>Official Address</h6>
-                    <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                    <p>Tripura Marg, Tripureshwor, Kathmandu</p>
                   </div>
                 </li>
                 <li>
@@ -31,7 +32,7 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+87986451666</p>
+                    <a href="tel:+9779860132869">+977 9860132869</a>
                   </div>
                 </li>
               </ul>
@@ -122,7 +123,7 @@ const Footer = ({ classText }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2024, Boash Studio.
+                  © {year}, BOSAH Design Studio Pvt. Ltd
                 </p>
               </div>
             </div>

@@ -27,18 +27,22 @@ const AboutUs6 = () => {
           <div className="col-lg-7 img">
             <img src="/assets/img/feat.jpg" alt="" />
             <div className="stauts">
-              <div className="item">
-                <h4>
-                  3<span>K</span> +
-                </h4>
-                <h6>Happy Clients</h6>
-              </div>
-              <div className="item">
-                <h4>
-                  14<span>K</span> +
-                </h4>
-                <h6>Success Projects</h6>
-              </div>
+              <Link href="#testimonials">
+                <div className="item">
+                  <h4>
+                    3<span>K</span> +
+                  </h4>
+                  <h6>Happy Clients</h6>
+                </div>
+              </Link>
+              <Link href="/portfolio">
+                <div className="item">
+                  <h4>
+                    14<span>K</span> +
+                  </h4>
+                  <h6>Success Projects</h6>
+                </div>
+              </Link>
             </div>
           </div>
         </div>

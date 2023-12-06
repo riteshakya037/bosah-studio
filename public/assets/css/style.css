@@ -2997,6 +2997,8 @@ body {
 /* ====================== [ Start Team ] ====================== */
 .team {
   position: relative; }
+  .team .container-fluid {
+    width: 75%; }
   .team .item {
     padding: 0 35px; }
     .team .item.cir .img {
