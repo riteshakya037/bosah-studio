@@ -28,20 +28,20 @@ const AboutUs6 = () => {
             <img src="/assets/img/feat.jpg" alt="" />
             <div className="stauts">
               <Link href="#testimonials">
-                <div className="item">
+                <a className="item">
                   <h4>
                     3<span>K</span> +
                   </h4>
                   <h6>Happy Clients</h6>
-                </div>
+                </a>
               </Link>
               <Link href="/portfolio">
-                <div className="item">
+                <a className="item">
                   <h4>
                     14<span>K</span> +
                   </h4>
                   <h6>Success Projects</h6>
-                </div>
+                </a>
               </Link>
             </div>
           </div>
