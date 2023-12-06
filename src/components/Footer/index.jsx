@@ -16,7 +16,7 @@ const Footer = ({ classText }) => {
                 <li>
                   <span className="icon pe-7s-map-marker"></span>
                   <div className="cont">
-                    <h6>Officeal Address</h6>
+                    <h6>Official Address</h6>
                     <p>504 White St . Dawsonville, GA 30534 , New York</p>
                   </div>
                 </li>
@@ -24,7 +24,7 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <p>support@gmail.com</p>
+                    <a href="mailto:support@bosah.com.np">support@bosah.com.np</a>
                   </div>
                 </li>
                 <li>
@@ -122,8 +122,7 @@ const Footer = ({ classText }) => {
               </div>
               <div className="copy-right">
                 <p>
-                  © 2022, Arch Template. Made with passion by
-                  <Link href="#">ThemesCamp</Link>.
+                  © 2024, Boash Studio.
                 </p>
               </div>
             </div>

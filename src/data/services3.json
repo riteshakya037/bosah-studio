@@ -19,5 +19,12 @@
     "icon": "icon flaticon-interior-design",
     "title": "3D Modeling",
     "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/03.jpg",
+    "icon": "icon flaticon-interior-design",
+    "title": "3D Modeling",
+    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
   }
 ]

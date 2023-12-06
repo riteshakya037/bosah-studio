@@ -32,7 +32,7 @@ const Services3 = ({ bigTitle, grid }) => {
 
         <div className="row">
           {services3Data.map((item, index) => (
-            <div className="col-lg-4" key={item.id}>
+            <div className="col-lg-3" key={item.id}>
               <div
                 className="item-bx bg-img wow fadeInUp"
                 data-wow-delay={index == 0 ? ".3s" : index == 1 ? ".5s" : ".7s"}

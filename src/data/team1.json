@@ -28,25 +28,5 @@
     "linkedin": "#",
     "username": "Leio Man",
     "usertitle": "Founder"
-  },
-  {
-    "id": 4,
-    "image": "/assets/img/team/4.jpg",
-    "facebook": "#",
-    "twitter": "#",
-    "behance": "#",
-    "linkedin": "#",
-    "username": "Robert Front",
-    "usertitle": "CEO Founder"
-  },
-  {
-    "id": 5,
-    "image": "/assets/img/team/5.jpg",
-    "facebook": "#",
-    "twitter": "#",
-    "behance": "#",
-    "linkedin": "#",
-    "username": "Matt Huk",
-    "usertitle": "3D Visualization"
   }
 ]

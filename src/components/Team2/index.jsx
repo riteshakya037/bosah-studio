@@ -14,7 +14,7 @@ const Team2 = () => {
       <div className="container-fluid">
         <div className="row">
           {Team1Data.slice(0, 4).map((item, index) => (
-            <div className="col-lg-3" key={item.id}>
+            <div className="col-lg-4" key={item.id}>
               <div className="item">
                 <div
                   className={`img ${
