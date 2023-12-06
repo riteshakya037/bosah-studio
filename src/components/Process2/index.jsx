@@ -1,9 +1,29 @@
 import React from "react";
 
-const Process2 = () => {
+const Process2 = ({ bigTitle }) => {
   return (
     <section className="process section-padding">
       <div className="container">
+        {!bigTitle ? (
+          <div className="section-head text-center">
+            <div className="row justify-content-center">
+              <div className="col-lg-6 col-md-8 col-sm-10">
+                <h6 className="custom-font wow fadeInDown" data-wow-delay=".3s">
+                  Processes
+                </h6>
+                <h4 className="playfont wow flipInX" data-wow-delay=".5s">
+                  Our Processes
+                </h4>
+              </div>
+            </div>
+          </div>
+        ) : (
+          <div className="main-header text-center">
+            <h3>Our Processes.</h3>
+            <div className="tex-bg">Processes</div>
+          </div>
+        )}
+
         <div className="row">
           <div className="col-lg-3 col-md-6">
             <div className="item md-mb50">
