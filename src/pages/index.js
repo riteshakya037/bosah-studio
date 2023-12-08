@@ -2,11 +2,13 @@ import React from "react";
 import Team2 from "../components/Team2";
 import Video from "../components/Video";
 import MainLayout from "../layouts/main";
-import Intro4 from "../components/Intro4";
+import IntroWithVertical from "../components/Intro-with-vertical";
+import IntroWithHorizontal from "../components/Intro-with-horizontal";
 import AboutUs6 from "../components/About-Us6";
 import Services3 from "../components/Services3";
 import Portfolio2 from "../components/Portfolio2";
 import Testimonials1 from "../components/Testimonials1";
+import AboutUs8 from "../components/About-Us8";
 
 const Home5 = () => {
   React.useEffect(() => {
@@ -14,7 +16,7 @@ const Home5 = () => {
   }, []);
   return (
     <MainLayout>
-      <Intro4 />
+      <IntroWithHorizontal />
       <Services3 bigTitle grid />
       <Portfolio2 />
       <AboutUs6 />

@@ -6,6 +6,7 @@ import Services3 from "../../components/Services3";
 import Process2 from "../../components/Process2";
 import Testimonials1 from "../../components/Testimonials1";
 import Team2 from "../../components/Team2";
+import AfterBefore from "../../components/After-Before";
 
 const About = () => {
   React.useEffect(() => {
@@ -24,6 +25,7 @@ const About = () => {
       <AboutUs4 />
       <Services3 bigTitle grid />
       <Process2 bigTitle />
+      <AfterBefore bigTitle />
       <Team2 />
       <Testimonials1 bigTitle />
     </MainLayout>
