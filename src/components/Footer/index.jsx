@@ -25,14 +25,16 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <a href="mailto:support@bosah.com.np">support@bosah.com.np</a>
+                    <a href="mailto:info@bosah.com.np">support@info.com.np</a>
                   </div>
                 </li>
                 <li>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <a href="tel:+9779860132869">+977 9860132869</a>
+                    <p><a href="tel:+9779860132869">+977 986-0132869</a></p>
+                    <p><a href="tel:+9779818270060">+977 981-8270060</a></p>
+                    <p><a href="tel:+9779841711793">+977 984-1711793</a></p>
                   </div>
                 </li>
               </ul>

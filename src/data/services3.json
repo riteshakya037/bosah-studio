@@ -4,27 +4,27 @@
     "image": "/assets/img/01.jpg",
     "icon": "icon flaticon-home-1",
     "title": "Architecture",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "content": "Designing enduring, innovative spaces that harmonize function and aesthetics with a focus on sustainability and client collaboration"
   },
   {
     "id": 2,
     "image": "/assets/img/02.jpg",
     "icon": "icon flaticon-living-room",
     "title": "Interior Design",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "content": "Crafting captivating interiors that blend beauty and functionality, tailored to individual styles for spaces that evoke comfort and elegance."
   },
   {
     "id": 3,
     "image": "/assets/img/03.jpg",
-    "icon": "icon flaticon-interior-design",
-    "title": "3D Modeling",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "icon": "icon flaticon-sketch",
+    "title": "Construction and Supervision",
+    "content": "Elevating spaces with curated or custom-designed furniture and decor elements, transforming environments into harmonious and captivating settings."
   },
   {
     "id": 3,
     "image": "/assets/img/03.jpg",
-    "icon": "icon flaticon-interior-design",
-    "title": "3D Modeling",
-    "content": "Cras mollis turpis a ipsum ultes, nec cond imentum ipsum consequat."
+    "icon": "icon flaticon-furniture",
+    "title": "Furniture and Decor",
+    "content": "Elevate spaces with personalized touches. Our services offer curated selections or custom-designed furniture and decor, enhancing ambiance and functionality."
   }
 ]

@@ -47,18 +47,13 @@ const AboutUs4 = () => {
           <div className="col-lg-6">
             <div className="txt-cont">
               <p className="mb-20">
-                Maecenas imperdiet ante eget hendrerit posuere. Nunc urna
-                libero, congue porta nibh a, semper feugiat sem. Sed auctor dui
-                eleifend, scelerisque eros ut.
+                Bosah is an emerging full-service design firm specializing in architecture and interior solutions. Comprising a dynamic team of passionate and forward-thinking professionals, our collective ambition is to illuminate Nepal's architecture and interior design landscape.
+              </p>
+              <p className="mb-20">
+                Driven by a vision for excellence, we aim to make a lasting impact in our field by integrating innovation, precision, and client-centric approaches into every project. Our dedication lies in fostering meaningful collaborations, crafting high-quality environments, and translating our clients' visions into remarkable realities.
               </p>
               <p>
-                Curabitur sed iaculis dolor, non congue ligula. Maecenas
-                imperdiet ante eget hendrerit posuere. Nunc urna libero, congue
-                porta nibh a, semper feugiat sem. Sed auctor dui eleifend,
-                scelerisque eros ut, pellentesque nibh. Nam lacinia suscipit
-                accumsan. Donec sodales, neque vitae rutrum convallis, nulla
-                tortor pharetra odio, in varius ante ante sed nisi.
-              </p>
+                With a steadfast commitment to long-term partnerships and a deep-seated belief in the power of design to transform spaces and communities, Bosah endeavors to be a leading beacon of inspiration and creativity in Nepal's architectural sphere.              </p>
             </div>
           </div>
         </div>
