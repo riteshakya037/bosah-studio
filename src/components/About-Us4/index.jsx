@@ -47,13 +47,13 @@ const AboutUs4 = () => {
           <div className="col-lg-6">
             <div className="txt-cont">
               <p className="mb-20">
-                Bosah is an emerging full-service design firm specializing in architecture and interior solutions. Comprising a dynamic team of passionate and forward-thinking professionals, our collective ambition is to illuminate Nepal's architecture and interior design landscape.
+                Bosah is an emerging full-service design firm specializing in architecture and interior solutions. Comprising a dynamic team of passionate and forward-thinking professionals, our collective ambition is to illuminate Nepal&apos;s architecture and interior design landscape.
               </p>
               <p className="mb-20">
-                Driven by a vision for excellence, we aim to make a lasting impact in our field by integrating innovation, precision, and client-centric approaches into every project. Our dedication lies in fostering meaningful collaborations, crafting high-quality environments, and translating our clients' visions into remarkable realities.
+                Driven by a vision for excellence, we aim to make a lasting impact in our field by integrating innovation, precision, and client-centric approaches into every project. Our dedication lies in fostering meaningful collaborations, crafting high-quality environments, and translating our clients&apos; visions into remarkable realities.
               </p>
               <p>
-                With a steadfast commitment to long-term partnerships and a deep-seated belief in the power of design to transform spaces and communities, Bosah endeavors to be a leading beacon of inspiration and creativity in Nepal's architectural sphere.              </p>
+                With a steadfast commitment to long-term partnerships and a deep-seated belief in the power of design to transform spaces and communities, Bosah endeavors to be a leading beacon of inspiration and creativity in Nepal&apos;s architectural sphere.              </p>
             </div>
           </div>
         </div>
