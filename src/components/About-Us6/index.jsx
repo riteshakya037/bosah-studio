@@ -27,7 +27,7 @@ const AboutUs6 = () => {
               <Link href="#testimonials">
                 <a className="item">
                   <h4>
-                    3<span>K</span> +
+                    20<span></span> +
                   </h4>
                   <h6>Happy Clients</h6>
                 </a>
@@ -35,7 +35,7 @@ const AboutUs6 = () => {
               <Link href="/portfolio">
                 <a className="item">
                   <h4>
-                    14<span>K</span> +
+                    50<span></span> +
                   </h4>
                   <h6>Success Projects</h6>
                 </a>
