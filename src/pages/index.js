@@ -8,7 +8,6 @@ import AboutUs6 from "../components/About-Us6";
 import Services3 from "../components/Services3";
 import Portfolio2 from "../components/Portfolio2";
 import Testimonials1 from "../components/Testimonials1";
-import AboutUs8 from "../components/About-Us8";
 
 const Home5 = () => {
   React.useEffect(() => {

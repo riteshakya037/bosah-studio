@@ -10,7 +10,7 @@ const AboutUs6 = () => {
           <div className="col-lg-5 valign md-mb50">
             <div className="mb-50">
               <h6 className="fw-100 text-u ls10 main-color mb-10">About Us</h6>
-              <h3 className="fw-600 text-u ls1 mb-30">Our Comapny</h3>
+              <h3 className="fw-600 text-u ls1 mb-30">Our Company</h3>
               <p>
                 Bosah is a dynamic architecture and interior design firm in Nepal. Comprised of passionate young professionals, we aspire to illuminate the design scene with our innovative approach. Our focus is on forging lasting partnerships, delivering high-quality spaces, and realizing our clients&apos; visions. Through creativity and dedication, we aim to set new benchmarks in Nepal&apos;s design landscape.
               </p>

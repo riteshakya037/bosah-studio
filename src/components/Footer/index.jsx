@@ -25,7 +25,7 @@ const Footer = ({ classText }) => {
                   <span className="icon pe-7s-mail"></span>
                   <div className="cont">
                     <h6>Email Us</h6>
-                    <a href="mailto:info@bosah.com.np">support@info.com.np</a>
+                    <a href="mailto:info@bosah.com.np">info@bosah.com.np</a>
                   </div>
                 </li>
                 <li>
@@ -112,7 +112,7 @@ const Footer = ({ classText }) => {
                     <i className="fab fa-twitter"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                <Link href="https://www.instagram.com/bosah.studio" target="_blank" rel="noopener noreferrer" >
                   <a>
                     <i className="fab fa-instagram"></i>
                   </a>
