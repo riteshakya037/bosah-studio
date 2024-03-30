@@ -50,41 +50,18 @@ const Footer = ({ classText }) => {
                   <div className="img">
                     <Link href="/blog-details">
                       <a>
-                        <img src="/assets/img/blog/1.jpg" alt="" />
+                        <img src="/assets/img/blog/1.webp" alt="" />
                       </a>
                     </Link>
                   </div>
 
                   <div className="sm-post">
-                    <Link href="/blog-details">
+                    <Link href="https://medium.com/@ruchikashakya1/bringing-vaastu-shastra-to-life-realizing-harmony-in-nepalese-interior-design-ffb482fb4906" target="_blank">
                       <a>
-                        <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
-                        </p>
+                        <p>Bringing Vaastu Shastra to Life: Realizing Harmony in Nepalese Interior Design</p>
                       </a>
                     </Link>
-                    <span className="date">14 Jan 2022</span>
-                  </div>
-                </li>
-                <li>
-                  <div className="img">
-                    <Link href="/blog-details">
-                      <a>
-                        <img src="/assets/img/blog/2.jpg" alt="" />
-                      </a>
-                    </Link>
-                  </div>
-                  <div className="sm-post">
-                    <Link href="/blog-details">
-                      <a>
-                        <p>
-                          The Start-Up Ultimate Guide to Make Your WordPress
-                          Journal.
-                        </p>
-                      </a>
-                    </Link>
-                    <span className="date">14 Jan 2022</span>
+                    <span className="date">Ruchika Shakya</span>
                   </div>
                 </li>
                 <li>
