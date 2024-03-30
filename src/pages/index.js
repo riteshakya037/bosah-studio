@@ -19,7 +19,7 @@ const Home5 = () => {
       <Services3 bigTitle grid />
       <Portfolio2 />
       <AboutUs6 />
-      <Video />
+      {/* <Video /> //todo */}
       <Team2 />
       <Testimonials1 bigTitle />
     </MainLayout>
