@@ -28,10 +28,10 @@ const AfterBefore = ({ bigTitle }) => {
                   data-content="After"
                 ></div>
                 <div id="before-image">
-                  <img src="/assets/img/before.jpg" alt="before" />
+                  <img src="/assets/img/blueprint/before.jpg" alt="before" />
                 </div>
                 <div id="after-image">
-                  <img src="/assets/img/after.jpg" alt="After" />
+                  <img src="/assets/img/blueprint/after.jpg" alt="After" />
                 </div>
                 <div id="resizer" className="twentytwenty-handle">
                   <span className="twentytwenty-left-arrow"></span>
