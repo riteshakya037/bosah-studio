@@ -10,11 +10,11 @@ const Portfolio2 = () => {
     <section className="portfolio full-bg">
       <div className="container-fluid">
         <div className="row">
-          <Link href="/project-details">
+          <Link href="#">
             <a className="col-lg-3 col-md-6 cluom current" data-tab="tab-1">
               <div className="info">
                 <h6 className="custom-font">Interior</h6>
-                <h5>Exterior Designs</h5>
+                <h5>Apartment at Naxal</h5>
               </div>
               <div className="more">
                 <a>
@@ -23,11 +23,11 @@ const Portfolio2 = () => {
               </div>
             </a>
           </Link>
-          <Link href="/project-details">
+          <Link href="#">
             <a className="col-lg-3 col-md-6 cluom" data-tab="tab-2">
               <div className="info">
-                <h6 className="custom-font">Interior</h6>
-                <h5>Maroon Beach Hotel</h5>
+                <h6 className="custom-font">Landscape</h6>
+                <h5>Lake View Resort</h5>
               </div>
               <div className="more">
                 <a>
@@ -36,11 +36,11 @@ const Portfolio2 = () => {
               </div>
             </a>
           </Link>
-          <Link href="/project-details">
+          <Link href="#">
             <a className="col-lg-3 col-md-6 cluom" data-tab="tab-3">
               <div className="info">
-                <h6 className="custom-font">Interior</h6>
-                <h5>Apartment Renovation</h5>
+                <h6 className="custom-font">Commercial</h6>
+                <h5>Mahavir International Office</h5>
               </div>
               <div className="more">
                 <a>
@@ -49,11 +49,11 @@ const Portfolio2 = () => {
               </div>
             </a>
           </Link>
-          <Link href="/project-details">
+          <Link href="#">
             <a className="col-lg-3 col-md-6 cluom" data-tab="tab-4">
               <div className="info">
-                <h6 className="custom-font">Interior</h6>
-                <h5>Modern Minimalist House</h5>
+                <h6 className="custom-font">Architecture</h6>
+                <h5>Mount Kailish Resort</h5>
               </div>
               <div className="more">
                 <a>
