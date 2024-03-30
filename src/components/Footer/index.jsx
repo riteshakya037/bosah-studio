@@ -57,7 +57,7 @@ const Footer = ({ classText }) => {
 
                   <div className="sm-post">
                     <Link href="https://medium.com/@ruchikashakya1/bringing-vaastu-shastra-to-life-realizing-harmony-in-nepalese-interior-design-ffb482fb4906" target="_blank">
-                      <a>
+                      <a target="_blank">
                         <p>Bringing Vaastu Shastra to Life: Realizing Harmony in Nepalese Interior Design</p>
                       </a>
                     </Link>
@@ -79,24 +79,24 @@ const Footer = ({ classText }) => {
                 <img src="/assets/img/logo-light.png" alt="" />
               </div>
               <div className="social">
-                <Link href="#">
-                  <a>
+                <Link href="https://www.facebook.com/bosah.a.design.studio/">
+                  <a target="_blank">
                     <i className="fab fa-facebook-f"></i>
                   </a>
                 </Link>
-                <Link href="#">
-                  <a>
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                </Link>
-                <Link href="https://www.instagram.com/bosah.studio" target="_blank" rel="noopener noreferrer" >
-                  <a>
+                <Link href="https://www.instagram.com/bosah.studio"  rel="noopener noreferrer" >
+                  <a target="_blank">
                     <i className="fab fa-instagram"></i>
                   </a>
                 </Link>
-                <Link href="#">
+                {/* <Link href="#">
                   <a>
                     <i className="fab fa-youtube"></i>
+                  </a>
+                </Link> */}
+                <Link href="https://www.linkedin.com/company/bosahdesignstudio/" >
+                  <a target="_blank">
+                    <i className="fab fa-linkedin"></i>
                   </a>
                 </Link>
               </div>
