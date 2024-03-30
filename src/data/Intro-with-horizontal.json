@@ -16,18 +16,6 @@
     "id": 2,
     "title": {
       "first": "Architecture & interior",
-      "second": "Innovative Architecture"
-    },
-    "content": {
-      "first": "Great houses would not exist without great clients.",
-      "second": "BOSAH believes beautiful homes result from the collective determination of client, architect and builder."
-    },
-    "image": "/assets/img/slid/n/01.jpg"
-  },
-  {
-    "id": 3,
-    "title": {
-      "first": "Architecture & interior",
       "second": "Classic and Modern"
     },
     "content": {
@@ -37,7 +25,7 @@
     "image": "/assets/img/slid/n/02.jpg"
   },
   {
-    "id": 4,
+    "id": 3,
     "title": {
       "first": "Architecture & interior",
       "second": "Elegant & Unique Design"
@@ -47,5 +35,17 @@
       "second": "BOSAH believes beautiful homes result from the collective determination of client, architect and builder."
     },
     "image": "/assets/img/slid/n/03.jpg"
+  },
+  {
+    "id": 4,
+    "title": {
+      "first": "Architecture & interior",
+      "second": "Innovative Architecture"
+    },
+    "content": {
+      "first": "Great houses would not exist without great clients.",
+      "second": "BOSAH believes beautiful homes result from the collective determination of client, architect and builder."
+    },
+    "image": "/assets/img/slid/n/01.jpg"
   }
 ]

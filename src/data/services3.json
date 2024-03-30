@@ -1,28 +1,28 @@
 [
   {
     "id": 1,
-    "image": "/assets/img/01.jpg",
+    "image": "/assets/img/portfolio/features/01.jpg",
     "icon": "icon flaticon-home-1",
     "title": "Architecture",
     "content": "Designing enduring, innovative spaces that harmonize function and aesthetics with a focus on sustainability and client collaboration"
   },
   {
     "id": 2,
-    "image": "/assets/img/02.jpg",
+    "image": "/assets/img/portfolio/features/02.jpg",
     "icon": "icon flaticon-living-room",
     "title": "Interior Design",
     "content": "Crafting captivating interiors that blend beauty and functionality, tailored to individual styles for spaces that evoke comfort and elegance."
   },
   {
     "id": 3,
-    "image": "/assets/img/03.jpg",
+    "image": "/assets/img/portfolio/features/03.jpg",
     "icon": "icon flaticon-sketch",
     "title": "Construction and Supervision",
     "content": "Elevating spaces with curated or custom-designed furniture and decor elements, transforming environments into harmonious and captivating settings."
   },
   {
     "id": 3,
-    "image": "/assets/img/03.jpg",
+    "image": "/assets/img/portfolio/features/04.jpg",
     "icon": "icon flaticon-furniture",
     "title": "Furniture and Decor",
     "content": "Elevate spaces with personalized touches. Our services offer curated selections or custom-designed furniture and decor, enhancing ambiance and functionality."
