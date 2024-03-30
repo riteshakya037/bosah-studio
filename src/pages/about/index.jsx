@@ -7,6 +7,7 @@ import Process2 from "../../components/Process2";
 import Testimonials1 from "../../components/Testimonials1";
 import Team2 from "../../components/Team2";
 import AfterBefore from "../../components/After-Before";
+import WorkHeader from "../../components/Work-header";
 
 const About = () => {
   React.useEffect(() => {
@@ -15,12 +16,13 @@ const About = () => {
 
   return (
     <MainLayout>
-      <PageHeader
-        title="About Us"
-        fullPath={[
-          { id: 1, name: "home", url: "/" },
-          { id: 2, name: "about us", url: "/about" },
-        ]}
+       <WorkHeader
+        center
+        title={{
+          first: "About Us",
+        }}
+        // title = "text",
+        content="A holistic and innovative creative design studio based in Nepal especializing in architecture, interior design and landscape solutions. "
       />
       <AboutUs4 />
       <Services3 bigTitle grid />

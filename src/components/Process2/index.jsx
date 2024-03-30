@@ -29,28 +29,28 @@ const Process2 = ({ bigTitle }) => {
             <div className="item md-mb50">
               <h4>01</h4>
               <h5>Design Process</h5>
-              <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+              <p>Creative ideation, client collaboration, and meticulous planning for innovative spaces.</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
             <div className="item md-mb50">
               <h4>02</h4>
               <h5>Supervision</h5>
-              <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+              <p>Diligent oversight, quality assurance, and proactive management for flawless execution.</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
             <div className="item sm-mb50">
               <h4>03</h4>
               <h5>Budget Planning</h5>
-              <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+              <p>Strategic resource allocation, transparent cost management, and value optimization.</p>
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
             <div className="item">
               <h4>04</h4>
-              <h5>Build a home for you</h5>
-              <p>Nulla metus metus ullamcorper vel tincidunt sed euismod.</p>
+              <h5>Your DREAM Project</h5>
+              <p>Craftsmanship, collaboration, and care for bespoke spaces that inspire.</p>
             </div>
           </div>
         </div>
